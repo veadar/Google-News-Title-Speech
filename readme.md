@@ -10,9 +10,8 @@ GoogleニュースのRSSを取得し、ダイアログ・通知センター・Gr
 - [Growl](https://itunes.apple.com/jp/app/growl/id467939042?mt=12)(option)
 - Kyoko
 
-
 ##Download
-Click Here → [Download](https://github.com/downloads/veadar/addShadow/addShadow.app.zip "Downloads · veadar/addShadow")
+Click Here → [Download](https://github.com/veadar/Google-News-Title-Speech/releases)
 
 ##Special Thanks & Used Codes
 
